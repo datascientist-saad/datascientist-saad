@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @datascientist-saad
-- ☁ Google Cloud Certified Associate Cloud Engineer
+- ☁ Google Cloud Certified **Associate Cloud Engineer**
 - 👀 I’m interested in Data Science and DevOps
 - 🌱 I’m currently learning Docker, Kubernetes, AWS
 - 💞️ I’m looking to collaborate on ML, Deep Learning, AI, Python, DevOps, Docker, AWS
